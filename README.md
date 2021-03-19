@@ -3,8 +3,8 @@ Found this remarkably simple jumping game coded using JS/CSS!
 
 # Preview
 
-![Preview](https://github.com/vishwarajanand/easiest-game-ever/blob/main/demos/game_start.png?raw=true "Game Start")
-![Preview](https://github.com/vishwarajanand/easiest-game-ever/blob/main/demos/game_play.png?raw=true "Game Play")
+![Preview](https://github.com/vishwarajanand/easiest-game-ever/blob/master/demos/game_start.png?raw=true "Game Start")
+![Preview](https://github.com/vishwarajanand/easiest-game-ever/blob/master/demos/game_play.png?raw=true "Game Play")
 
 
 Hosted on Github Pages:
